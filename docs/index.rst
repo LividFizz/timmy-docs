@@ -5,6 +5,11 @@
 
 Welcome to Timmy Bot's documentation!
 =====================================
+.. toctree::
+   :maxdepth: 2
+   :caption: Tags Documentation
+   
+   tags/tse_blocks
 
 .. toctree::
    :maxdepth: 2
