@@ -5,10 +5,15 @@
 
 Welcome to Timmy Bot's documentation!
 =====================================
+
+.. image:: https://discordapp.com/api/guilds/1018657830909263944/widget.png?style=shield
+    :target: https://discord.gg/jBVUwVacQV
+    :alt: Discord Server
+
 .. toctree::
    :maxdepth: 2
    :caption: Tags Documentation
-   
+
    tags/tse_blocks
 
 .. toctree::
